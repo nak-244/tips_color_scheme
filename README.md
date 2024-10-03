@@ -18,3 +18,4 @@ COLORSは、ビジネス文書に最適なグラフの配色をサポートす�
 ## 使い方
 ### 1️⃣COLORSにアクセスし、編集画面を表示する
 まずはCOLORSのTOPページにアクセスすると、以下のようなカラーサンプルが並んだ画面が出てきます。
+![image2](https://github.com/user-attachments/assets/9c6e3845-a2e3-4f9b-9e61-a5e180811cf7)
